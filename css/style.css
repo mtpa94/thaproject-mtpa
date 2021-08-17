@@ -13,7 +13,7 @@ body {
   margin: 0;
   height: 100vh;
   background:#993366;
-  /* overflow: hidden; */
+  overflow: hidden;
 }
 
 .grid-container{
